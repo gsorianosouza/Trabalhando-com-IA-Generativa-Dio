@@ -17,20 +17,24 @@ Após abrir o [copilot.microsoft.com](https://copilot.microsoft.com/), podemos v
 **Prompts usados:**
 
 1° Prompt:
+
 ![Question2](https://github.com/user-attachments/assets/761ef791-7b43-4f6b-b074-6dc73a4fb61c)
 
 
 2° Prompt:
+
 ![Question3](https://github.com/user-attachments/assets/6e0a1ac8-9163-4561-97c6-26eea4cf71bb)
 
 
 **Respostas dos prompts:**
 
 1° Resposta:
+
 ![Answer2](https://github.com/user-attachments/assets/b05df7e0-7821-4726-aa60-966e42eb34d8)
 
 
 2° Resposta:
+
 ![Answer3](https://github.com/user-attachments/assets/00627367-3da4-4ef4-b7bc-15ef07baed21)
 
 
@@ -38,10 +42,12 @@ Após abrir o [copilot.microsoft.com](https://copilot.microsoft.com/), podemos v
 
 **Prompt usado:**
 
+
 ![Screenshot_149](https://github.com/user-attachments/assets/1d726864-954a-406d-979f-7d46400a28a7)
 
 
 **Resposta do Prompt:**
+
 
 ![um submarino congelado](https://github.com/user-attachments/assets/0ee70a60-f631-4ca8-b2f8-308d49c9d8e7)
 
@@ -51,12 +57,14 @@ Após abrir o [copilot.microsoft.com](https://copilot.microsoft.com/), podemos v
 **Prompts usados:**
 
 1° Prompt:
+
 ![Question1](https://github.com/user-attachments/assets/6a0d003c-c2aa-413d-a855-123559dde78e)
 
 
 **Respostas dos Prompts:**
 
 1° Resposta:
+
 ![Answer1](https://github.com/user-attachments/assets/f98a3236-0d2f-4666-96fa-cdde9c0eb759)
 
 
