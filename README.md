@@ -17,52 +17,48 @@ Após abrir o [copilot.microsoft.com](https://copilot.microsoft.com/), podemos v
 **Prompts usados:**
 
 1° Prompt:
-![Prompt 1](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Inputs/GenerateResponses1.png?raw=true)
+![Question2](https://github.com/user-attachments/assets/761ef791-7b43-4f6b-b074-6dc73a4fb61c)
+
 
 2° Prompt:
-![Prompt 2](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Inputs/GenerateResponses2.png?raw=true)
+![Question3](https://github.com/user-attachments/assets/6e0a1ac8-9163-4561-97c6-26eea4cf71bb)
 
-3° Prompt:
-![Prompt 3](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Inputs/GenerateResponses3.png?raw=true)
 
 **Respostas dos prompts:**
 
 1° Resposta:
-![Resposta 1](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Outputs/Responses1.png?raw=true)
+![Answer2](https://github.com/user-attachments/assets/b05df7e0-7821-4726-aa60-966e42eb34d8)
+
 
 2° Resposta:
-![Resposta 2](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Outputs/Responses2.png?raw=true)
+![Answer3](https://github.com/user-attachments/assets/00627367-3da4-4ef4-b7bc-15ef07baed21)
 
-3° Resposta:
-![Resposta 3](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Outputs/Responses3.png?raw=true)
 
 - **Geração de imagens**
 
 **Prompt usado:**
 
-![Prompt usado para imagem](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Inputs/ImageGeneration.png?raw=true)
+![Screenshot_149](https://github.com/user-attachments/assets/1d726864-954a-406d-979f-7d46400a28a7)
+
 
 **Resposta do Prompt:**
 
-![Resposta do Prompt de imagem](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Outputs/ImageGenerationResponse.png?raw=true)
+![um submarino congelado](https://github.com/user-attachments/assets/0ee70a60-f631-4ca8-b2f8-308d49c9d8e7)
+
 
 - Geração de código
 
 **Prompts usados:**
 
 1° Prompt:
-![Prompt usado para o 1° Código](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Inputs/CodeGeneration1.png?raw=true)
+![Question1](https://github.com/user-attachments/assets/6a0d003c-c2aa-413d-a855-123559dde78e)
 
-2° Prompt:
-![Prompt usado para o 2° Código](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Inputs/CodeGeneration2.png?raw=true)
 
 **Respostas dos Prompts:**
 
 1° Resposta:
-![Resposta do Prompt de Código 1](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Outputs/CodeGenerationResponse.png?raw=true)
+![Answer1](https://github.com/user-attachments/assets/f98a3236-0d2f-4666-96fa-cdde9c0eb759)
 
-2° Resposta:
-![Resposta do Prompt de Código 2](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Outputs/CodeGenerationResponse2.png?raw=true)
 
 ## **2. Azure OpenAI**
 
